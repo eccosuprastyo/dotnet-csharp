@@ -1,0 +1,12 @@
+E:\Belajar\Blogger\Sample Project\Filter Combobox\Filter Combobox\bin\Debug\Filter Combobox.exe
+E:\Belajar\Blogger\Sample Project\Filter Combobox\Filter Combobox\bin\Debug\Filter Combobox.pdb
+E:\Belajar\Blogger\Sample Project\Filter Combobox\Filter Combobox\bin\Debug\MySql.Data.dll
+E:\Belajar\Blogger\Sample Project\Filter Combobox\Filter Combobox\bin\Debug\Newtonsoft.Json.dll
+E:\Belajar\Blogger\Sample Project\Filter Combobox\Filter Combobox\bin\Debug\System.Data.SQLite.dll
+E:\Belajar\Blogger\Sample Project\Filter Combobox\Filter Combobox\bin\Debug\System.Net.Json.dll
+E:\Belajar\Blogger\Sample Project\Filter Combobox\Filter Combobox\obj\x86\Debug\Filter Combobox.csprojResolveAssemblyReference.cache
+E:\Belajar\Blogger\Sample Project\Filter Combobox\Filter Combobox\obj\x86\Debug\Filter_Combobox.Form1.resources
+E:\Belajar\Blogger\Sample Project\Filter Combobox\Filter Combobox\obj\x86\Debug\Filter_Combobox.Properties.Resources.resources
+E:\Belajar\Blogger\Sample Project\Filter Combobox\Filter Combobox\obj\x86\Debug\Filter Combobox.csproj.GenerateResource.Cache
+E:\Belajar\Blogger\Sample Project\Filter Combobox\Filter Combobox\obj\x86\Debug\Filter Combobox.exe
+E:\Belajar\Blogger\Sample Project\Filter Combobox\Filter Combobox\obj\x86\Debug\Filter Combobox.pdb
