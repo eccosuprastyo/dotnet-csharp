@@ -13,10 +13,10 @@ namespace Filter_Combobox
 
         MySql.Data.MySqlClient.MySqlConnection conn;
         string myConnectionString;
-        static string host = "192.168.43.107";
+        static string host = "localhost";
         static string database = "test";
         static string userDB = "ecco";
-        static string password = "1sampe6";
+        static string password = "password";
         public static string strProvider = "server=" + host + ";Database=" + database + ";User ID=" + userDB + ";Password=" + password;
 
 
