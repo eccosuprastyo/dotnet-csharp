@@ -27,10 +27,10 @@ namespace Export_Excel
         private void button1_Click(object sender, EventArgs e)
         {
             
-            string title = " Excel Export by Tutorial Coding";
+            string title = " Excel Export by Camellabs";
             SaveFileDialog sfd = new SaveFileDialog();
             sfd.Filter = "Excel Documents (*.xls)|*.xls";
-            sfd.FileName = "Tutorial Coding.xls";
+            sfd.FileName = "camellabs.xls";
             if (sfd.ShowDialog() == DialogResult.OK)
             {
                 excelImp.ToCsV(dataGridView1,textBox1.Text, textBox2.Text, textBox3.Text,title, sfd.FileName);   
