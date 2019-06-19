@@ -1,8 +1,0 @@
-E:\Belajar\Blogger\Sample Project\Save File txt\Save File txt\bin\Debug\Save File txt.exe
-E:\Belajar\Blogger\Sample Project\Save File txt\Save File txt\bin\Debug\Save File txt.pdb
-E:\Belajar\Blogger\Sample Project\Save File txt\Save File txt\obj\x86\Debug\Save_File_txt.Form1.resources
-E:\Belajar\Blogger\Sample Project\Save File txt\Save File txt\obj\x86\Debug\Save_File_txt.Properties.Resources.resources
-E:\Belajar\Blogger\Sample Project\Save File txt\Save File txt\obj\x86\Debug\Save File txt.csproj.GenerateResource.Cache
-E:\Belajar\Blogger\Sample Project\Save File txt\Save File txt\obj\x86\Debug\Save File txt.exe
-E:\Belajar\Blogger\Sample Project\Save File txt\Save File txt\obj\x86\Debug\Save File txt.pdb
-E:\Belajar\Blogger\Sample Project\Save File txt\Save File txt\obj\x86\Debug\Save File txt.csprojResolveAssemblyReference.cache
