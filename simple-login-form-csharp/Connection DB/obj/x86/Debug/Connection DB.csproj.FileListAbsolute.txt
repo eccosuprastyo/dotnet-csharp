@@ -1,0 +1,12 @@
+E:\Belajar\Blogger\Sample Project\Connection DB\Connection DB\obj\x86\Debug\Connection DB.csprojResolveAssemblyReference.cache
+E:\Belajar\Blogger\Sample Project\Connection DB\Connection DB\obj\x86\Debug\Connection_DB.Form1.resources
+E:\Belajar\Blogger\Sample Project\Connection DB\Connection DB\obj\x86\Debug\Connection_DB.Properties.Resources.resources
+E:\Belajar\Blogger\Sample Project\Connection DB\Connection DB\obj\x86\Debug\Connection DB.csproj.GenerateResource.Cache
+E:\Belajar\Blogger\Sample Project\Connection DB\Connection DB\bin\Debug\Connection DB.exe
+E:\Belajar\Blogger\Sample Project\Connection DB\Connection DB\bin\Debug\Connection DB.pdb
+E:\Belajar\Blogger\Sample Project\Connection DB\Connection DB\bin\Debug\MySql.Data.dll
+E:\Belajar\Blogger\Sample Project\Connection DB\Connection DB\bin\Debug\Newtonsoft.Json.dll
+E:\Belajar\Blogger\Sample Project\Connection DB\Connection DB\bin\Debug\System.Data.SQLite.dll
+E:\Belajar\Blogger\Sample Project\Connection DB\Connection DB\bin\Debug\System.Net.Json.dll
+E:\Belajar\Blogger\Sample Project\Connection DB\Connection DB\obj\x86\Debug\Connection DB.exe
+E:\Belajar\Blogger\Sample Project\Connection DB\Connection DB\obj\x86\Debug\Connection DB.pdb
