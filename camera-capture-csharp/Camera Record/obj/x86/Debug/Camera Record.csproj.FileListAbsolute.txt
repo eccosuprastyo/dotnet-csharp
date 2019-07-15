@@ -1,0 +1,35 @@
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\Camera Record.exe
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\Camera Record.pdb
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\AForge.Controls.dll
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\AForge.dll
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\AForge.Imaging.dll
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\AForge.Math.dll
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\AForge.Video.DirectShow.dll
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\AForge.Video.dll
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\AForge.Controls.xml
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\AForge.Video.xml
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\AForge.Video.DirectShow.xml
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\obj\x86\Debug\Camera Record.csprojResolveAssemblyReference.cache
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\obj\x86\Debug\Camera_Record.Form1.resources
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\obj\x86\Debug\Camera_Record.Properties.Resources.resources
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\obj\x86\Debug\Camera Record.csproj.GenerateResource.Cache
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\obj\x86\Debug\Camera Record.exe
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\obj\x86\Debug\Camera Record.pdb
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\AForge.xml
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\AForge.Imaging.xml
+E:\Belajar\Blogger\Sample Project\Camera Record\Camera Record\bin\Debug\AForge.Math.xml
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\bin\Debug\Camera Record.exe
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\bin\Debug\Camera Record.pdb
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\bin\Debug\AForge.xml
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\bin\Debug\AForge.Controls.xml
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\bin\Debug\AForge.Imaging.xml
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\bin\Debug\AForge.Math.xml
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.xml
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\bin\Debug\AForge.Video.DirectShow.xml
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera Record.csprojResolveAssemblyReference.cache
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera_Record.Form1.resources
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera_Record.Properties.Resources.resources
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera Record.csproj.GenerateResource.Cache
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera Record.csproj.CoreCompileInputs.cache
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera Record.exe
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\camera-capture-csharp\Camera Record\obj\x86\Debug\Camera Record.pdb
