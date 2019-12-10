@@ -1,0 +1,7 @@
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\delegates\delegates\obj\Debug\delegates.csprojResolveAssemblyReference.cache
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\delegates\delegates\obj\Debug\delegates.csproj.CoreCompileInputs.cache
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\delegates\delegates\bin\Debug\delegates.exe.config
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\delegates\delegates\bin\Debug\delegates.exe
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\delegates\delegates\bin\Debug\delegates.pdb
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\delegates\delegates\obj\Debug\delegates.exe
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\delegates\delegates\obj\Debug\delegates.pdb
