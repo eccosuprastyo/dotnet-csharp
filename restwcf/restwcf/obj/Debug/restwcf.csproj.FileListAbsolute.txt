@@ -1,0 +1,7 @@
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\restwcf\restwcf\bin\Debug\restwcf.exe.config
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\restwcf\restwcf\bin\Debug\restwcf.exe
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\restwcf\restwcf\bin\Debug\restwcf.pdb
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\restwcf\restwcf\obj\Debug\restwcf.csprojResolveAssemblyReference.cache
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\restwcf\restwcf\obj\Debug\restwcf.csproj.CoreCompileInputs.cache
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\restwcf\restwcf\obj\Debug\restwcf.exe
+D:\EKO\ANDROID\PROJECT\dotnet-csharp\restwcf\restwcf\obj\Debug\restwcf.pdb
